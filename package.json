@@ -1,0 +1,11 @@
+{
+  "name": "html-stamp-webpack-plugin",
+  "version": "1.0.0",
+  "description": "set timestamp to the index.html head link(.js/css) base on html-webpack-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chensiyuan",
+  "license": "ISC"
+}
