@@ -1,6 +1,6 @@
 {
   "name": "html-stamp-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "set timestamp to the index.html head link(.js/css) base on html-webpack-plugin",
   "main": "index.js",
   "scripts": {
